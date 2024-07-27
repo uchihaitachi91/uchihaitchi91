@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anurag Mishra
 =====================================================================================================================================
 
-Backend Developer
+Data Analyst
 -----------------
 
 highly passionate backend developer with a relentless drive for crafting robust and scalable solutions. Proficient in Java, Python, APIs Skilled in working with databases, including, Database Systems, PostgreSQL, MongoDB, Strong knowledge of server-side frameworks like Framework Name, Flask, Spring.
